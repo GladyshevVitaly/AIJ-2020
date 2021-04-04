@@ -9,6 +9,8 @@
 
 Код отправлялся в Docker на ODS.AI
 
+Место занял не самое высокое. Но опыта приобрёл массу :)
 
+Таблица результатов: https://ods.ai/competitions/aij-petr/leaderboard
 
 

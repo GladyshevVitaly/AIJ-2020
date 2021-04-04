@@ -1,9 +1,9 @@
 # AIJ 2020: Digital Peter
 
-1 Выполнялось обучение модели для преобразования сканов в тест Петра I
+1 Обучение модели для преобразования сканов в тест Петра I
 <br>https://github.com/GladyshevVitaly/AIJ-2020/blob/main/aij-pg-img-to-peter-text.ipynb
 
-2 Код для исполнени модели в контейнере
+2 Код для исполнения модели в контейнере
 <br>https://github.com/GladyshevVitaly/AIJ-2020/blob/main/run_eval.py
 
 3 Формирую датасет на основе корпуса текстов XVII века для обучения seq2seq фильтра-корректора
@@ -12,7 +12,7 @@
 4 Обучение модели seq2seq фильтра-корректора
 <br>https://github.com/GladyshevVitaly/AIJ-2020/blob/main/seq2seq_post.ipynb
 
-5 Код для исполнения в контейнере преобразования скана в текст с последующей seq2seq коррекцией
+5 Код для исполнения в контейнере, преобразование скана в текст с последующей seq2seq коррекцией
 <br>https://github.com/GladyshevVitaly/AIJ-2020/blob/main/run_eval_sts_attn.py
 
 Код отправлялся в Docker на ODS.AI
